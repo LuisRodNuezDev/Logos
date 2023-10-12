@@ -1,0 +1,17 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:04.000 line:100% position:50% align:middle
+Hello
+
+2
+00:00:04.000 --> 00:00:08.000 line:100% position:50% align:middle
+World
+
+3
+00:00:08.000 --> 00:00:10.000 line:100% position:50% align:middle
+Fast
+
+4
+00:00:10.000 --> 00:00:16.000 line:100% position:50% align:middle
+Slow
